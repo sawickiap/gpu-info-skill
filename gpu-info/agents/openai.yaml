@@ -1,0 +1,6 @@
+interface:
+  display_name: "GPU Info"
+  short_description: "Reads information about GPUs installed in the local system, including vendor and model name, VendorID, DeviceID, amount of memory, driver version, all DirectX 12 and Vulkan capabilities, properties, limits, supported extensions, and formats"
+
+policy:
+  allow_implicit_invocation: true
