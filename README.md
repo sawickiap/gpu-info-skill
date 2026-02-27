@@ -7,10 +7,11 @@ This repository is a "skill" for agentic AI that adds a possibility for your age
 This is not a single command, sorry 🙂
 
 1. Download the ZIP archive of this repository.
-   - Unpack the `gpu-info` subdirectory to wherever you can place your agentic AI skills, whether in your repository or user directory. For example, when using Codex on Windows, unpack it to `c:\Users\YOUR_LOGIN\.codex\skills\gpu-info\`
+   - Unpack the `gpu-info` subdirectory to wherever you can place your agentic AI skills, whether in your repository or user directory. For example, when using Codex on Windows, unpack it to `c:\Users\YOUR_LOGIN\.codex\skills\`
    - To check if you did it correctly, validate that following file exists: `c:\Users\YOUR_LOGIN\.codex\skills\gpu-info\SKILL.md`.
 2. (Windows only) Go to [the latest release of D3d12info app](https://github.com/sawickiap/D3d12info/releases/latest). Download `D3d12info.zip`.
-   - Unpack it to the `scripts/` subdirectory of this skill. To check if you unpacked it correctly, validate that following file exists: `c:\Users\YOUR_LOGIN\.codex\skills\gpu-info\scripts\D3d12info\D3d12info.exe`.
+   - Unpack it to the `scripts/` subdirectory of this skill.
+   - To check if you unpacked it correctly, validate that following file exists: `c:\Users\YOUR_LOGIN\.codex\skills\gpu-info\scripts\D3d12info\D3d12info.exe`.
 
 ## Usage
 
